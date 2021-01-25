@@ -1,0 +1,10 @@
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\bin\Debug\stream_highlights.txt
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\bin\Debug\StreamHighlightsClipper.exe
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\bin\Debug\StreamHighlightsClipper.pdb
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\obj\Debug\StreamHighlightsClipper.csprojAssemblyReference.cache
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\obj\Debug\StreamHighlightsClipper.csproj.CoreCompileInputs.cache
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\obj\Debug\StreamHighlightsClipper.exe
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\obj\Debug\StreamHighlightsClipper.pdb
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\bin\Debug\config.txt
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\bin\Debug\MediaToolkit.dll
+E:\Projects\StreamHighlightsClipper\StreamHighlightsClipper\obj\Debug\StreamHighlightsClipper.csproj.CopyComplete
