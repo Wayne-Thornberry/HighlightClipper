@@ -131,6 +131,7 @@ namespace StreamHighlightsClipper
                 if ((highlightTimestamp <= videoStartDateTime) || (highlightTimestamp >= videoEndDateTime)) continue;
                 var highlightTitle = string.IsNullOrEmpty(highlightMatch.Groups[3].ToString()) ? "NoTitle" : highlightMatch.Groups[3].ToString();
                 highlightTitle = Regex.Replace(highlightTitle, " ", "_");
+                highlightTitle = Regex.Replace(highlightTitle, @"[~""#%&*:<>?/\\{|}]+", "");
                 var highlightName = highlightTimestamp.ToString("yyyy-dd-MM_HH-mm-ss") + highlightTitle + i;
                 var highlightTimeSpan = highlightTimestamp.Subtract(videoStartDateTime);
                 var highlightStart = highlightTimeSpan.Subtract(buffer).ToString();
